@@ -1,5 +1,4 @@
 <?php
-
 class Teletype {
 	private $doc = null;
 	public function __construct () {
